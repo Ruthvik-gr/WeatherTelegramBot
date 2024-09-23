@@ -1,7 +1,8 @@
 # Telegram Weather Bot
 
 This project utilizes the **NestJS** framework and **React.js** to create a Telegram bot that delivers weather updates to users. The bot includes features like user subscriptions, an admin panel for managing settings and accounts, and **MongoDB** for storing user data. Weather data is fetched using the **OpenWeatherMap API**.
-
+ 
+ 
 ## Telegram Bot Link
 
 You can interact with the Telegram bot [here](https://t.me/Ruthviks_weather_Bot).
